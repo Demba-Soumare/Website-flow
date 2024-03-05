@@ -2,4 +2,3 @@
 
 emmental
 mozzarella
-cheddar
